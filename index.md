@@ -5,4 +5,4 @@
 layout: default
 ---
 
-This is Patrick's page
+This is Patrick's page. [Check out my blog](https://medium.com/plural-of-anecdote)
