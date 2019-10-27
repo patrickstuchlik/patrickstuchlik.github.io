@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My home page</title>
+  </head>
+  <body>
+    <p>This is Patrick's page</p>
+  </body>
+</html>
