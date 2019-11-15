@@ -1,5 +1,6 @@
 ---
 layout: default
+homepage: false
 title: all my posts
 ---
 <ul>
