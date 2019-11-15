@@ -3,7 +3,8 @@ title: Patrick Stuchlik
 email: pat@pat.fyi
 description: Welcome to my website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://pat.fyi # the base hostname & protocol for your site, e.g. http://example.com
+url: https://pat.fyi # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PatrickStuchlik
 github_username:  patrickstuchlik
 google_analytics: UA-151407637-1
+github.repository_url: https://github.com/patrickstuchlik/patrickstuchlik.github.io
