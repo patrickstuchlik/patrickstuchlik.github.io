@@ -3,6 +3,7 @@ layout: default
 title: Life in St. Louis, MO
 description: A machine learning investigation into life expectancy and features of the environment around us in my hometown
 categories: machine learning
+
 ---
 
 # Life Expectancy and the Built Environment in Saint Louis, Missouri
@@ -15,7 +16,7 @@ What does that matter to you, a resident of St. Louis, though? First of all, mos
 
 Specifically, we are measuring the association of the features of the built environment with public health in St. Louis, MO. Public health is life expectancy, in years, measured by the NCHS's USALEEP project for each census tract (see below for links to data). Census tracts are a small geographic unit determined by the [census bureau](https://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf); consider that the city of St. Louis, with 300,000+ residents, has 106 census tracts. The built environment is measured through a combination of public or community gardens (both conventional community gardens as well as the city's Milkweed for Monarchs program), public transit (as measured by number of light rail stations in each census tract), length of bike lanes and area of public parks in a census tract, and a scaled score from the EPA measuring "walkability." I have also included a proxy measure of socioeconomic status (SES) because it plays such a large role in this association: percent of the adult population in each census tract without health insurance.
 
-I began by reading in my collected data. 
+I began by reading in my collected data. (For all the code and for more discussion, please see my [Jupyter notebook.](https://colab.research.google.com/drive/1ixbLJXY_1jYA5x-P3_M5X2zrTsEF08VC) )
 *   **'GEOID'** : the 11-digit FIPS code for each census tract
 *   **'land_perc'** : the percent of each census tract that GIS calculated to be land (i.e. not water)
 *   **'food1'** : a USDA calculated percentage of the total census tract with [low access to healthy food](https://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/) within 1 mile
