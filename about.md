@@ -5,6 +5,7 @@
 layout: default
 homepage: false
 title: About Me
+description: Thank you for being here.
 ---
 
 Hello! My name is Patrick Stuchlik. I absolutely love thinking creatively and working with data. 
