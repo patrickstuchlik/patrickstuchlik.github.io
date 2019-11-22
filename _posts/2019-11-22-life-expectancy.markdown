@@ -4,7 +4,7 @@ title: Life Expectancy and the Built Environment in St. Louis, MO
 description: A machine learning investigation into life expectancy and features of the environment around us in my hometown
 ---
 
-#Life Expectancy and the Built Environment in Saint Louis, Missouri
+# Life Expectancy and the Built Environment in Saint Louis, Missouri
 
 Below, you, a constitutuent or resident of the city of Saint Louis, Missouri, will find a tool under development to measure the relationship between public health and the built environment. What is the [built environment](https://en.wikipedia.org/wiki/Built_environment)? The "built environment" a catch-all term for features of your local area, built by humans, for the purposes of work, life, or play. Classic definitions include public parks and public transit, but researchers now include many more quantifiable features, including bicycling, healthy food access, and even mental health. For this tool, I have gathered data on at least seven aspects of the built environment.
 
