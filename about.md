@@ -13,4 +13,4 @@ My background is in epidemiology and biostatistics (PhD, [Tulane University,](ht
 
 Recently I completed The Data Incubator's fellowship program, and I am excited to pursue data science opportunities!
 
-![Me](/assets/about/IMG_1495.jpg)
+![Me](/assets/about/IMG_1495.JPG)
