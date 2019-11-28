@@ -8,7 +8,7 @@ description: Here is a list of all of the posts to this site
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><br>
-	  {{ post.description }}
+	  {{ post.description }}<br>
     </li>
   {% endfor %}
 </ul>
