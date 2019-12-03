@@ -6,4 +6,4 @@ layout: default
 homepage: true
 ---
 
-This is Patrick's page. [Check out my blog](https://medium.com/plural-of-anecdote)
+Hello! Welcome to my page!
