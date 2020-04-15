@@ -2,7 +2,7 @@
 layout: default
 title: Life in St. Louis, MO
 description: A machine learning investigation into life expectancy and features of the environment around us in my hometown
-categories: machine learning, interactive
+categories: machine-learning interactive
 
 ---
 
