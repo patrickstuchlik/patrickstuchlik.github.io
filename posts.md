@@ -1,8 +1,8 @@
 ---
 layout: default
 homepage: false
-title: All My Posts
-description: Here is a list of all of the posts to this site
+title: Posts
+description: What interests me and what I am working on (more to come soon!)
 ---
 <ul>
   {% for post in site.posts %}

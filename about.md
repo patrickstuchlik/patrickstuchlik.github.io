@@ -8,10 +8,12 @@ title: About Me
 description: Thank you for being here.
 ---
 
-Hello! My name is Patrick Stuchlik. I absolutely love thinking creatively and working with data. 
+My name is Patrick Stuchlik. I love finding data, analyzing it, and then finding a creative and aesthetically pleasing way of presenting my findings.
 
 My background is in epidemiology and biostatistics (PhD, [Tulane University,](https://sph.tulane.edu/epid/home) 2018). After graduate school, I was a postdoctoral fellow at UCSF's [Center](https://popbrain.ucsf.edu/) for Population Brain Health.
 
-Recently I completed The Data Incubator's [fellowship]( https://www.thedataincubator.com/fellowship.html) program, and I am excited to pursue data science opportunities!
+Recently I completed The Data Incubator's [fellowship](https://www.thedataincubator.com/fellowship.html) program, where I gained expertise in Python and other data science technologies, and I am excited to pursue data science opportunities!
+
+Send me an email: pat AT pat DOT fyi
 
 ![Me](/assets/about/IMG_1495.JPG)

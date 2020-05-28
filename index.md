@@ -6,4 +6,4 @@ layout: default
 homepage: true
 ---
 
-Hello! Welcome to my page!
+Hello! Welcome to my webpage, where I will be posting my own individual data science projects. Click through to see what I've been working on, or my GitHub, etc. Thank you for coming! 
