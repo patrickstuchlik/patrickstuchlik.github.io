@@ -14,6 +14,6 @@ My background is in epidemiology and biostatistics (PhD, [Tulane University,](ht
 
 Recently I completed The Data Incubator's [fellowship](https://www.thedataincubator.com/fellowship.html) program, where I gained expertise in Python and other data science technologies, and I am excited to pursue data science opportunities!
 
-Send me an email: pat AT pat DOT fyi or see my [resume](_posts/resume.md)
+Send me an email: pat AT pat DOT fyi or see my [resume](https://raw.githubusercontent.com/patrickstuchlik/patrickstuchlik.github.io/master/_posts/resume.md)
 
 ![Me](/assets/about/IMG_1495.JPG)
